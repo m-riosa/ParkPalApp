@@ -1,5 +1,5 @@
 # ParkPalApp
-App made for theme-park goers to check current wait times to better plan vacations
+App made for theme-park goers to check current wait times to better plan vacations. This app was developed in Flutter.
 
 
 This was an app created as part of a full-stack application done in University. The app was made entirely by me, my groupmates handled the database creation, API endpoints, as well as the web application.
